@@ -2,8 +2,7 @@
 
 env.component = "cart"
 env.app_lang = "nodejs"
-//test
-//
+
 ci()
 
 
